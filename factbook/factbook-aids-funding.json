@@ -76,7 +76,7 @@
   },
   "yAxis":{
     "title":{
-      "text":"Funding (Dollars in Thousands)"
+      "text":"Funding (Dollars in Millions)"
     }
   }
 }

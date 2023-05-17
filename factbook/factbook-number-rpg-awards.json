@@ -108,6 +108,9 @@
     "title":{
       "text":"Number of RPGs"
     },
-    "max":4000
+    "max":4000,
+    "labels": {
+      "format": "{value:,.0f}"
+    }
   }
 }
