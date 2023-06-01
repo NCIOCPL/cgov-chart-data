@@ -13,6 +13,14 @@
       {
         "name":"NCI",
         "id":"NCI",
+        "colors":[
+          "#2DC799",
+          "#ABE9D6",
+          "#229573",
+          "#17644D",
+          "#D5F4EB",
+          "#0B3226"
+        ],
         "data":[
           [
             "Clinical Center",
