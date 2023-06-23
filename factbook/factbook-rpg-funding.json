@@ -1,6 +1,6 @@
 {
   "chartTitle":{
-    "text":"Percent Share of Total RPG Funds, FY 21"
+    "text":"Percent Share of Total RPG Funds, FY 22"
   },
   "chartType":{
     "type":"NCI_pie"
@@ -54,35 +54,35 @@
       "data":[
         [
           "R01/R37",
-          1723346.39
+          1740884.76
         ],
         [
           "P01 Program Projects",
-          196613.35
+          202270.29
         ],
         [
           "R03 Small Grants",
-          8382.87
+          9243.87
         ],
         [
           "R21 Exploratory Phase I",
-          89334.25
+          97455.69
         ],
         [
           "R33 Exploratory Phase II",
-          16534.97
+          12215.31
         ],
         [
           "R35",
-          158472.18
+          146781.02
         ],
         [
           "SBIR/STTR",
-          158269.50
+          151385.72
         ],
         [
           "Other",
-          374797.05
+          511960.10
         ]
       ]
     }
