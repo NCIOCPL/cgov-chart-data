@@ -1,8 +1,21 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.DS_Store
 # Editor-based HTTP Client requests
 /httpRequests/
 
 # Editor related files
 .idea/
+
+
+(#16) Factbook Data Update FY 2023
+
+Closes #16
+
+* Updated chart data files for Budget Summary (factbook-obligations-mechanism excluded)
+* Updated data files for Historical Trends
+* Updated data files Cancer Moonshot
+* Updated data files for Extramural Programs
+* Updated factbook-obligations-mechanism
+* Updated `.gitignore` file

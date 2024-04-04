@@ -1,6 +1,6 @@
 {
   "chartSubTitle":{
-    "text":"Fiscal Years 2013 - 2022"
+    "text":"Fiscal Years 2013 - 2023"
   },
   "chartTitle":{
     "text":"Comparison of Dollars, Positions, and Space"
@@ -27,7 +27,8 @@
         5992,
         6383,
         6443,
-        6833
+        6833,
+        7317
       ],
       "tooltip":{
         "valuePrefix":"$",
@@ -47,6 +48,7 @@
         1055,
         1212,
         1215,
+        1214,
         1214
       ],
       "tooltip":{
@@ -66,7 +68,8 @@
         2888,
         2993,
         3097,
-        3182
+        3182,
+        3250
       ]
     }
   ],
@@ -90,7 +93,7 @@
         }
       },
       "min":4000,
-      "max":7000
+      "max":8000
     },
     {
       "title":{
